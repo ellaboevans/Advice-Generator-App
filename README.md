@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](./design/desktop-shot.png)
+![image](![image](https://user-images.githubusercontent.com/74984305/201462600-fe88bb02-e6ae-486b-96d9-baca59c8694d.png))
 ![image](./design/mobile.png)
 ![image](./design/Mobile-menu-opened.png)
 
