@@ -34,7 +34,7 @@ Users should be able to:
 
 ![image](./design/Frontend-Mentor-Advice-generator-app.png)
 ![image](./design/Frontend-Mentor-Advice-generator-app%20mobil.png)
-![image](./design/Mobile-menu-opened.png)
+
 
 ### Links
 
