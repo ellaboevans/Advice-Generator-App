@@ -14,8 +14,9 @@ function randomAdvice(){
     fetch("https://api.adviceslip.com/advice")
     .then((response) => response.json())
     .then((data) => {
-        ids.innerHTML =    `Advice #${data.slip.id}`;
-        advice.innerHTML = data.slip.advice;
+        let getQuote = data.slip
+        ids.innerHTML =    `Advice #${getQuote.id}`;
+        advice.innerHTML = getQuote.advice;
     });
 }
 
