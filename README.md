@@ -28,7 +28,6 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 - Also Generate a new piece of advice when the window loads.
 
-### Screenshot
 
 ### Screenshot
 
@@ -38,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-app-xahkdXYfbU)
 - Live Site URL: [Advice Generator App](https://ellaboevans.github.io/Advice-Generator-App/)
 
 ## My process
